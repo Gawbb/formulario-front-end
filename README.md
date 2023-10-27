@@ -1,8 +1,28 @@
-# React + Vite
+# Formulário Front-End 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Tecnologias usadas: 
+<br>
+1 - React + Vite
+<br>
+2 - Javascript 
+<br>
+3 - Material UI (Styled Components)
+<br>
+4 - Axios
+<br>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### O que foi feito: 
+<br>
+1 - Foi criado um layout de um formulário simples.
+<br>
+2 - Foi criada a lógica para se comunicar com o back-end utilizando Axios.
+<br>
+3 - Foi criada um cadastro dos campos dos formulários no back-end
+<br>
+4 - Foi criado um card para listar os dados cadastrados no back-end.
+<br>
+<br>
+
+Desenvolvido por Gabriela Iaccino.
